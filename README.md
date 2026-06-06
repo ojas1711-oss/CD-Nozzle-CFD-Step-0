@@ -1,4 +1,12 @@
 # CFD Investigation of Compressible Flow Through a Converging-Diverging Nozzle
+## Key Results
+
+| Quantity | Value |
+|-----------|---------|
+| Maximum Velocity | 306 m/s |
+| Maximum Mach Number | 0.963 |
+| Minimum Static Pressure | 91.9 kPa |
+| Cell Count | ~10,000 |
 
 ## Project Overview
 
@@ -58,18 +66,10 @@ Key dimensions:
 
 ---
 
-## Key Results
-
-| Quantity                | Value    |
-| ----------------------- | -------- |
-| Maximum Velocity        | 306 m/s  |
-| Maximum Mach Number     | 0.963    |
-| Minimum Static Pressure | 91.9 kPa |
-
 Observed behavior:
 
 * Flow accelerates through the converging section
-* Maximum velocity occurs near the throat
+* Maximum velocity occurs immediately downstream of the throat region
 * Static pressure decreases as velocity increases
 * Near-choking conditions are achieved
 * Pressure recovery occurs in the diverging section
@@ -89,6 +89,17 @@ images/
     Contours
     Centerline Results
 ```
+## Velocity Contour
+
+![Velocity Contour](images/velocity_contour.png)
+
+## Static Pressure Contour
+
+![Pressure Contour](images/pressure_contour.png)
+
+## Mach Number Contour
+
+![Mach Contour](images/mach_contour.png)
 
 ## Skills Demonstrated
 
@@ -100,6 +111,14 @@ images/
 * Engineering Documentation
 * Data Interpretation
 * Aerospace Propulsion Fundamentals
+
+## Project Status
+
+Completed
+
+Baseline CFD study for a converging-diverging nozzle under near-choking operating conditions.
+
+Current repository represents Step 0 of a larger propulsion-oriented CFD portfolio roadmap.
 
 ## Author
 
