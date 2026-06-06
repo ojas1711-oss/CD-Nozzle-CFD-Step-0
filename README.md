@@ -1,5 +1,4 @@
 # CFD Investigation of Compressible Flow Through a Converging-Diverging Nozzle
-# CFD Investigation of Compressible Flow Through a Converging-Diverging Nozzle
 
 ## Project Overview
 
