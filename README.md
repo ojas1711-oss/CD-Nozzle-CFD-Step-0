@@ -91,15 +91,15 @@ images/
 ```
 ## Velocity Contour
 
-![Velocity Contour](images/velocitycontour.png)
+![Velocity Contour](images/velocity_contour.png)
 
 ## Static Pressure Contour
 
-![Pressure Contour](images/pressurecontour.png)
+![Pressure Contour](images/pressure_contour.png)
 
 ## Mach Number Contour
 
-![Mach Contour](images/machcontour.png)
+![Mach Contour](images/mach_contour.png)
 
 ## Skills Demonstrated
 
